@@ -1,2 +1,4 @@
 # annotator
-Web annotator
+A web and collaborative annotator.
+
+
